@@ -5,7 +5,7 @@ export class AppService {
   getHello(): any {
     return {
     "status" : "Online",
-    "service": "canar api",
+    "service": "Cañar Muñoz Api Nestjs",
     "version" : "0.0.1",
     "date": new Date(),
     }
